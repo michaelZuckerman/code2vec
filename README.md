@@ -63,7 +63,7 @@ python3 code2seq.py --load models_ttf/python_ftt --test data_ttf/data/my_dataset
 ```
 
 ## Datasets
-### Java
+### Python
 To download the python
 
   * [python](https://www.dropbox.com/s/4q08j78f7hdbiob/python50starsplus.tar.gz?dl=0)
