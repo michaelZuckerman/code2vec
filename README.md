@@ -59,7 +59,7 @@ bash train.sh
 ### Step 3: Evaluating a trained model
 Suppose that iteration #1 is our chosen model, run:
 ```
-python3 code2seq.py --load models_ttf/python_ftt --test data_ttf/data/my_dataset/my_dataset.test.c2s
+python3 code2seq.py --load models_ttf/python_ftt/model_iter001 --test data_ttf/data/my_dataset/my_dataset.test.c2s
 ```
 
 ## Datasets
