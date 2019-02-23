@@ -1,0 +1,11 @@
+configure_buildonrequest_middleware_enabled
+setUp
+test_setin
+authenticate
+__init__
+clean_username
+clean_password_again
+_minify_json
+send_notifcations_on_m2m
+process_created_object
+process_timezone_field
