@@ -45,7 +45,7 @@ To create and preprocess a new dataset:
 ### Step 2: Training a model
 You can either download an already trained model, or train a new model using a preprocessed dataset.
 
-#### Downloading a trained model (137 MB)
+#### Downloading a trained model
 We already trained a model for 60 epochs on the data that was preprocessed in the previous step.
 
 #### Training a model from scratch
